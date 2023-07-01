@@ -6,7 +6,6 @@
 -- import: package/social-buttons as social
 
 
-
 ;; -------------------------------------------------------------------------
 ;; ***** PORTFOLIO Layout starts *****
 ;; -------------------------------------------------------------------------
@@ -31,7 +30,7 @@ header-item2-link: /portfolio/about
 header-item3-link: /portfolio/blogs
 header-item4-link: /portfolio/projects
 cta-item2: Schedule a Meeting
-cta-item2-link: https://calendly.com/ayushsoni1010
+cta-item2-link: https://https://twitter.com/Dhairyajain2905
 
 ;; ----------------------------------------------------------------
 ;; ***** PORTFOLIO Header ends *****
@@ -45,7 +44,7 @@ cta-item2-link: https://calendly.com/ayushsoni1010
 
 -- toast.stack: 
 title: Hello, I'm aspiring fastn developer based in India
-link: YOUR_GITHUB_HANLDE
+link: https://github.com/dhairyajain29
 
 ;; -----------------------------------------------------
 ;; ***** PORTFOLIO Toast ends *****
@@ -71,11 +70,11 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: YOUR_NAME,
+secondTitle: Dhairya Jain,
 
 -- lib.hero-ui-base-text-wrapper:
-firstTitle: frontend
-secondTitle: developer
+firstTitle: Flutter
+secondTitle: Developer
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: and
@@ -95,11 +94,11 @@ spacing.fixed.px: 10
 
 -- button.secondary: 
 title: Hire me
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:dhairyajain29@gmail.com
 
 -- button.primary: 
 title: Schedule a Meeting
-link: YOUR_MEETING_HANLDE
+link: https://meet.google.com/jad-qdhr-zsv?authuser=0
 isNewTab: true
 
 -- end: ftd.row
@@ -117,27 +116,27 @@ isNewTab: true
 spacing.fixed.px: 10
 
 -- social.social-button-wrapper:
-link: YOUR_LINKEDIN_HANLDE
+link: https://www.linkedin.com/in/dhairya-jain-b66464217/
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
-link: YOUR_TWITTER_HANDLE
+link: https://https://twitter.com/Dhairyajain2905
 image: $assets.files.images.twitter.png
 
 -- social.social-button-wrapper:
-link: YOUR_GITHUB_HANLDE
+link: https://github.com/dhairyajain29
 image: $assets.files.images.github.png
 
 -- social.social-button-wrapper:
-link: YOUR_INSTAGRAM_HANLDE
+link: https://instagram.com/dhairya_kumar_jain?igshid=OGIzYTJhMTRmYQ==
 image: $assets.files.images.instagram.png
 
 -- social.social-button-wrapper:
-link: YOUR-YOUTUBE_HANDLE
+link: https://www.youtube.com/channel/UC3abd-HZV14OJW6m1zOFMAQ
 image: $assets.files.images.youtube.png
 
 -- social.social-button-wrapper:
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:dhairyajain29@gmail.com
 image: $assets.files.images.mail.png
 
 -- end: ftd.row
